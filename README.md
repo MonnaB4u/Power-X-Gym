@@ -1,6 +1,6 @@
 Live Site :- https://clever-wozniak-3d1391.netlify.app/Home
 
-This is a Gym WebSite . For done this website we used 
+This is a Gym WebSite . For done this website I used 
 1. React 
 2. JavaScript
 3. Es6

@@ -1,71 +1,46 @@
-# Getting Started with Create React App
+Live Site :- https://clever-wozniak-3d1391.netlify.app/Home
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Gym WebSite . For done this website we used 
+1. React 
+2. JavaScript
+3. Es6
+4. Html , Css
+5. React Router
+6.Bootstrap
 
-## Available Scripts
+This is pure responsive website . In this home page we are trying to  give some idea about our Power X-Gym project.
+User can easily  join with us by one click in join us  button.  
+User can choose the gym course  from in the second part in the  home page.  
+In the third part we are trying to  show one success full men for  motivate user.  
+In Fourth step is for training  program 
+And in the footer is for know  about us
 
-In the project directory, you can run:
+In Our Class Page 
 
-### `npm start`
+Is for Introduce the gym  classes to the customers . there have  five kind of classes . 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1 psycho training 
+2 Self defence 
+3 Advance gym 
+4 cardio training.  
+5. Strength training
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+In Class Schedule page is for Classes Schedule . 
+User can see and Choose this classes  with users convenient time 
 
-### `npm test`
+In Pricing Plans Page
+User can purchase their plan with soe  offer or discount by this part 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+In MemberShip Page 
 
-### `npm run build`
+Before purchase the gym plan . user  must submit this form for create  membership in this gym website .  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+In Bank payment Page
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+User can use several kind of bank for  purchase . this part is for that .  
+User can use Visa , Maestro , Discover ,  American Express and Paypal also . 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# PowerX-Gym
